@@ -1,1 +1,1 @@
-Basic PHP Create-Read-Update-Delete operations for my own practice!
+Basic PHP Create-Read-Update-Delete operations for my own practice.
